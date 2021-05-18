@@ -1,2 +1,3 @@
 # BajaGame
-Simple Game implemented in C++
+
+This is a simple card game implemented in C++, also it uses CMakeLists and Boost Libraries.
